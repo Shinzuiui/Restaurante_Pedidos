@@ -1,0 +1,20 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Base de datos SQLite
+restaurante.db
+
+# Archivos de boletas generadas
+boleta_*.pdf
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
