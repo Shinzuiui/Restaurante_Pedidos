@@ -1,4 +1,5 @@
 from database import Base, engine
+import models
 
 # Crea todas las tablas en la base de datos
 print("Creando tablas...")
